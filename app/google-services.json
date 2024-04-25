@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1060792401195",
+    "firebase_url": "https://datateman2-5c7df-default-rtdb.firebaseio.com",
+    "project_id": "datateman2-5c7df",
+    "storage_bucket": "datateman2-5c7df.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1060792401195:android:fe6f3aae975c4092e8996e",
+        "android_client_info": {
+          "package_name": "com.example.datateman2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1060792401195-5ra4pnparj7g333g3lgmse2u57m72nvp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.datateman2",
+            "certificate_hash": "43b61fe58a687ffa2e61fa502f4253d0cd54a5fb"
+          }
+        },
+        {
+          "client_id": "1060792401195-q0uqag5alecivniatkm0u091ovg49c7t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCkkWk5Pd89fJLc0HYR9GDJfq0UhCEue1o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1060792401195-q0uqag5alecivniatkm0u091ovg49c7t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
