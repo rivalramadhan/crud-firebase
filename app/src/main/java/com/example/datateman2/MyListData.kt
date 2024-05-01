@@ -41,7 +41,7 @@ class MyListData : AppCompatActivity(), RecyclerViewAdaptor.dataListener {
     }
     //kode untuk mengambil data dari database & show in Adapter
     private fun GetData(){
-        Toast.makeText(applicationContext, "Please Wait yahh..", Toast.LENGTH_LONG).show()
+        Toast.makeText(applicationContext, "Please Wait", Toast.LENGTH_LONG).show()
         val getUserID : String = auth?.getCurrentUser()?.getUid().toString()
         val getReference = database.getReference()
         getReference.child("Admin").child(getUserID).child("DataTeman2")

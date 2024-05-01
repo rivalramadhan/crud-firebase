@@ -61,7 +61,7 @@ class UpdateData : AppCompatActivity() {
             //Menampilkan data dari item yang dipilih sebelumnya
             val getNama = intent.extras!!.getString("dataNama")
             val getAlamat = intent.extras!!.getString("dataAlamat")
-            val getNoHp = intent.extras!!.getString("dataNoHp")
+            val getNoHp = intent.extras!!.getString("dataNoHP")
             binding.newNama!!.setText(getNama)
             binding.newAlamat!!.setText(getAlamat)
             binding.newNoHp!!.setText(getNoHp)
